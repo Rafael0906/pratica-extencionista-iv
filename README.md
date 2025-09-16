@@ -16,33 +16,42 @@
 
 ### 1. Diagrama UML de Pacotes (Arquitetura da Aplicação)
 
-\Diagrama UML de Pacotes (Arquitetura da Aplicação).drawio.png
+<img width="1880" height="1320" alt="image" src="https://github.com/user-attachments/assets/387af2d9-e02a-4e58-b0f7-cb12c003b149" />
+
 
 ---
 
 ### 2. Diagrama de Arquitetura de Implantação
 
-Arquivo: [`docs/diagrama-arquitetura-implantacao.png`](docs/diagrama-arquitetura-implantacao.png)
 
-![Diagrama de Arquitetura de Implantação](docs/diagrama-arquitetura-implantacao.png)
+<img width="1080" height="2040" alt="image" src="https://github.com/user-attachments/assets/343ce4ec-b63e-4edc-8f06-8211d3077cbb" />
 
 ---
 
 ### 3. Diagrama de Arquitetura DevOps
 
-Arquivo: [`docs/diagrama-arquitetura-devops.png`](docs/diagrama-arquitetura-devops.png)
+<img width="1000" height="2120" alt="image" src="https://github.com/user-attachments/assets/37866d37-827a-418f-baf4-2678d8f7598e" />
 
-![Diagrama de Arquitetura DevOps](docs/diagrama-arquitetura-devops.png)
 
 ---
 
 ### 4. Infraestrutura Cloud Escolhida
 
-Arquivo: [`docs/infra-cloud.md`](docs/infra-cloud.md)
+## Infraestrutura Cloud Escolhida
 
-**Resumo:**
-Descreva aqui qual infraestrutura em nuvem foi escolhida (ex: AWS, Azure, Google Cloud, etc.), como foi feita a ativação do usuário, a estrutura criada e o motivo da escolha em relação às outras opções.
+Optamos por utilizar a **Amazon Web Services (AWS)** como infraestrutura em nuvem para o projeto, devido aos seguintes motivos:
 
+- Facilidade de ativação de usuário e créditos para estudantes.
+- Ampla documentação e suporte.
+- Serviços integrados (EC2, RDS, S3).
+- Escalabilidade.
+- Em comparação com Azure e Google Cloud, a AWS oferece mais recursos gratuitos para estudantes.
+
+**Estrutura criada:**
+- Conta AWS ativada.
+- Usuário com permissões básicas.
+- Instância EC2 para hospedagem.
+- Banco de dados RDS.
 ---
 
 ## PDF para Entrega
