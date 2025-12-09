@@ -1,0 +1,6 @@
+async function carregar() {
+  const res = await fetch("/api");
+  const dados = await res.json();
+  document.getElementById("status").innerText = dados.mensagem;
+}
+carregar();
