@@ -20,7 +20,7 @@ const usuarios = [
   }
 ];
 
-// Endpoint principal
+// Endpoint principal da API
 export default function handler(req, res) {
   // Contagem de usuários ativos
   const usuariosAtivos = usuarios.filter(u => u.ativo).length;
