@@ -77,5 +77,7 @@ Sugestão: Gere o PDF a partir deste README ou de um documento Word/Google Docs,
 - [Modelo de repositório do Prof. Roberson Alves](https://github.com/robersonjfa/modelopeiv.git)
 
 ---
+LINK  para site :
+pratica-extencionista-iv.vercel.app
 
 > **Todos os diagramas devem estar publicados dentro do repositório do Git da Prática Extencionista IV.**
